@@ -1,0 +1,5 @@
+venv/
+node_modules/
+aiwriter-dev-new (1).zip
+__pycache__/
+.idea/

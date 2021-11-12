@@ -1,0 +1,12 @@
+Django
+djangorestframework
+keytotext
+numpy
+setuptools
+torch
+django-cors-headers
+sentencepiece
+transformers
+jinja2
+
+

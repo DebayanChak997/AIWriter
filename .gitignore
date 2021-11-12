@@ -1,0 +1,20 @@
+#Ignore Databases
+db.sqlite3
+
+#Ignore __pycache__
+__pycache__
+api/__pycache__
+backend/__pycache__
+NewModel/__pycache__
+
+#Ignore frontend modules
+frontend/node_modules
+frontend/build
+venv
+#Ignore AI Model
+
+#Ignore Blog.txt
+Blog.txt
+
+#Ignore Test File 
+frontend/src/Test.jsx

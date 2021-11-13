@@ -126,7 +126,7 @@ function Login() {
         <h2>Login</h2>
         <form>
           <p>
-            <input type="text" placeholder="Username" required value={email} onChange={(e) => setEmail(e.target.value)}  />
+            <input type="text" placeholder="User email" required value={email} onChange={(e) => setEmail(e.target.value)}  />
           </p>
           <p>
             <input type="password" placeholder="Password" required onChange={(e) => setPassword(e.target.value)}/>

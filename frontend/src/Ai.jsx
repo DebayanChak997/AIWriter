@@ -169,7 +169,7 @@ const Ai =()=>{
 
        
         <li className="nav-item">
-            <a className="nav-link1 collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
+            <a className="nav-link1 collapsed" href="/services" data-toggle="collapse" data-target="#collapseTwo"
                 aria-expanded="true" aria-controls="collapseTwo">
                 <i className="fas fa-fw fa-cog"></i>
                 <span>Service</span>
@@ -184,7 +184,7 @@ const Ai =()=>{
         </li>
 
         <li className="nav-item active">
-            <a className="nav-link1" href="#" data-toggle="collapse" data-target="#collapseUtilities"
+            <a className="nav-link1" href="/contact" data-toggle="collapse" data-target="#collapseUtilities"
                 aria-expanded="true" aria-controls="collapseUtilities">
                 <i className="fas fa-fw fa-wrench"></i>
                 <span>Contact</span>
